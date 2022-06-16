@@ -1,2 +1,2 @@
-# JavaScriptContador
+# JavaScript
 Projeto Contador em JavaScript
